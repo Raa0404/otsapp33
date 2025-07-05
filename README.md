@@ -1,2 +1,3 @@
-# OTS App
-This is the production-ready OTS application with all three phases.
+# OTS Final App
+
+This is the final production-ready version of the OTS Settlement App.
