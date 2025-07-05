@@ -1,0 +1,1 @@
+import React from 'react'; const App = () => (<h1>OTS App - Final Version</h1>); export default App;
